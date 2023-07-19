@@ -4,7 +4,7 @@ excerpt: "2023 TSA Webmaster Submission<br/><img src='/images/helios_img.png'>"
 collection: portfolio
 ---
 
-Created a responsive mock space-tourism company website with interactive 3D components. I had a lot of fun building this out and involved a lot of trial and error, especially with getting the interactive 3D globes to work! Through my research, I was also able to learn a lot about the aerospace industry.
+Created a responsive mock space-tourism company website with interactive 3D components. I had a lot of fun building this out and involved a lot of trial and error, especially with getting the interactive 3D globes to work! Through my research, I was also able to learn a lot about the aerospace industry. Although my partner did not know how to code, she was immensely knowledgeable and helpful in the aerospace field.
 
 *Technologies:* React.js, Three.js, TailwindCSS
 
