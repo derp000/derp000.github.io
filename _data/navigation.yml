@@ -12,6 +12,21 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Awards"
+    url: "/#awards"
+
+  - title: "ECs"
+    url: "/#extracurriculars"
+
+  - title: "Community Service"
+    url: "/#community service"
+
+  - title: "Experience"
+    url: "/#work experience"
+
   - title: "Skills"
     url: "/#skills"
         
