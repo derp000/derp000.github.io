@@ -1,6 +1,6 @@
 ---
 title: "Helios"
-excerpt: "2023 TSA Webmaster Submission<br/><img src='/images/helios_img.png'>"
+excerpt: "2023 TSA Webmaster Submission<br/><img src='/images/helios_img.png' width=500 height=300>"
 collection: portfolio
 ---
 
