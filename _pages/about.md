@@ -23,39 +23,39 @@ Research
   * Conducting research on improving underwater image restoration/enhancement using diffusion models
   * Selective program with 20% acceptance rate
 
-* 2023: Particle Physics Research Group
+* Particle Physics Research Group, *2023*
   * Investigating/learning about quantum mechanics, neutrino oscillations, etc.
   * Under guidance of Prof. Alfredo Aranda (University of Colima)
 
 Extracurriculars
 ======
-* Vice President: Magnet FRC Robotics Team 1257 (2021-Present)
+* 🤖 **Vice President**: Magnet FRC Robotics Team 1257, *2021-Present*
   * Primary contributor for implementation of AprilTag vision detection
   * Aided in development of on-the-fly trajectory generation system
   * Taught members relevant Java libraries necessary to interface with robot
 
-* Coding Club (2021-Present)
+* 💻 Coding Club, *2021-Present*
   * Ran two-month-long workshop twice a week introducing Python and web devlopment to 10-15 students in my school district
   * Hackathon organizer
  
-* Secretary: Technology Student Association (2022-Present)
+* 📐 **Secretary**: Technology Student Association, *2022-Present*
   * Participant in various TSA competitions
  
-* Violinist: New Jersey Youth Symphony (2019-Present)
+* 🎻 **Violinist**: New Jersey Youth Symphony, *2019-Present*
   * Selective audition-based orchestra
 
 Community Service
 ======
-* Present: Summer STEM Outreach Organizer @ Longhill Township Library
+* **Summer STEM Outreach Organizer** @ Longhill Township Library, *Present*
   * Organizing biweekly LEGO robotics and programming workshops for elementary/middle school students
   * Program with 10+ students in attendance
  
-* 2022-Present: Volunteer/CS Committee Chair @ The Alliance of Youth Leaders in the United States
+* **CS Committee Chair/Volunteer** @ The Alliance of Youth Leaders in the United States, *2021-Present*
   * Taught programming by holding workshops in local libraries
   * Played piano/violin at retirement homes and held benefit concerts
   * Accumulated 100+ volunteering hours
  
-* 2022: Teacher @ Aioglearning
+* **Teacher** @ Aioglearning, *2022*
   * Created curriculum and taught basic Python programming to elementary/middle school students
   * Developed student intuition and used libraries like Turtle to maintain engagement
 
