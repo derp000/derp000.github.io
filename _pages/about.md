@@ -92,9 +92,7 @@ Skills
 
 Machine Learning
 ------
-* PyTorch
-* Keras
-* TensorFlow
+PyTorch, Keras, TensorFlow
 
 Python
 ------
@@ -110,8 +108,8 @@ Web Development
 ------
 * React.js
 * Firebase
-* Django and Flask
-* tailwindCSS and BootstrapCSS
+* Django & Flask
+* tailwindCSS & BootstrapCSS
 * Three.js
 * Typescript
 * HTML/CSS/JS
