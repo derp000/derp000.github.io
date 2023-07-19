@@ -19,7 +19,7 @@ Education
 
 Research
 ======
-* 2023: Blast AI Summer Research Program
+* Blast AI Summer Research Program, *2023*
   * Conducting research on improving underwater image restoration/enhancement using diffusion models
   * Selective program with 20% acceptance rate
 
