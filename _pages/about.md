@@ -124,7 +124,7 @@ Languages
 
 Miscellaneous
 ------
-* AutoCAD and Fusion360
+* AutoCAD & Fusion360
 * Blender
 * Git, Bash, Vim
 * MS Office
