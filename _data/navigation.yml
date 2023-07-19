@@ -22,10 +22,10 @@ main:
     url: "/#extracurriculars"
 
   - title: "Community Service"
-    url: "/#community&#x20;service"
+    url: "/#community-service"
 
   - title: "Experience"
-    url: "/#work&#x20;experience"
+    url: "/#work-experience"
 
   - title: "Skills"
     url: "/#skills"
