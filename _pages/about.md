@@ -12,6 +12,8 @@ redirect_from:
 
 Hi! I am a high school student from Union County Magnet High School. My research interests are in image generation, image restoration, and object detection.
 
+<span class='anchor' id='about-me'></span>
+
 # Education
 * Union County Magnet High School, 2025 (expected)
 
