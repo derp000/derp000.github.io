@@ -1,6 +1,6 @@
 ---
 title: "WikiEnv"
-excerpt: "Simplihacks 2.0 submission <br/><img src='/images/500x300.png'>"
+excerpt: "Simplihacks 2.0 submission <br/><img src='/images/wikienv.png' width=500 height=300>"
 collection: portfolio
 ---
 
