@@ -10,7 +10,7 @@ redirect_from:
   - /cv.html
 ---
 
-Hi! I am a high school student from Union County Magnet High School. My research interests are in image generation, image restoration, and object detection.
+Hi! I am a high school student from Union County Magnet High School. I'm really interested in ML, especially in the areas of image generation, image restoration, and object detection. Here you can learn a bit about me and check out my portfolio of projects! :)
 
 # Education
 * Union County Magnet High School, 2025 (expected)
@@ -61,7 +61,7 @@ Hi! I am a high school student from Union County Magnet High School. My research
   * Selective audition-based orchestra
 
 # Community service
-* **Summer STEM Outreach Organizer** @ Longhill Township Library, *Present*
+* **Summer STEM Outreach Organizer** @ Long Hill Township Library, *Present*
   * Organizing biweekly LEGO robotics and programming workshops for elementary/middle school students
   * Program with 10+ students in attendance
  
