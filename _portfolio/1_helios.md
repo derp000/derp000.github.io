@@ -14,7 +14,7 @@ As I aluded to above, my favorite part was getting these Google-Earth-style glob
 
 User chooses a planetary trip to preview.
 
-<img src="../images/helios_attractions_main.png" width=600 height=338 style="margin-bottom: 1em">
+<img src="/images/helios_attractions_main.png" width=600 height=338 style="margin-bottom: 1em">
 
 <br />
 
@@ -22,7 +22,7 @@ User chooses a planetary trip to preview.
 
 User can drag the Moon around and click the markers to learn about the different landmarks.
 
-<img src="../images/helios_attractions_example.png" width=600 height=338 style="margin-bottom: 1em">
+<img src="/images/helios_attractions_example.png" width=600 height=338 style="margin-bottom: 1em">
 
 <br />
 
