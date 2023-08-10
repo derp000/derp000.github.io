@@ -10,7 +10,7 @@ redirect_from:
   - /cv.html
 ---
 
-Hi! I am a high school student from Union County Magnet High School. I'm really interested in ML, especially in the areas of image generation, image restoration, and object detection. Here you can learn a bit about me and check out my portfolio of projects! :)
+Hi! I am a high school student from Union County Magnet High School. I'm really interested in ML and computer vision, especially in the areas of image generation, image restoration, and object detection. Here you can learn a bit about me and check out my portfolio of projects! :)
 
 # Education
 * Union County Magnet High School, 2025 (expected)
@@ -23,7 +23,7 @@ Hi! I am a high school student from Union County Magnet High School. I'm really 
 
 # Research
 * Blast AI Summer Research Program, *2023*
-  * Conducting research on improving underwater image restoration/enhancement using diffusion models
+  * Conducting research on improving underwater image restoration/enhancement using conditional diffusion models with a CLIP-based loss function
   * Selective program with 20% acceptance rate
 
 * Particle Physics Research Group, *2023*
@@ -41,6 +41,8 @@ Hi! I am a high school student from Union County Magnet High School. I'm really 
   * Created modern 3D interactive website addressing design challenge
 * Simplihacks 2.0 Hackathon Best Social Cause Winner, *2022*
   * A 48-hour software/hardware creation competition
+* President's Volunteer Service Award (Gold), *2023*
+  * Awarded for achieving 100 volunteer hours
 * High Honor Roll (x8), *2021–Present*
   * Awarded quarterly for maintaining a 90+ QPA
 
