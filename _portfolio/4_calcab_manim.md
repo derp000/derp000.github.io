@@ -1,6 +1,6 @@
 ---
 title: "Calculus Visualization Project"
-excerpt: "Easy-to-use web-scraping API to calulate grades <br/><img src='/images/ps_logo.jpg' width=500 height=300>"
+excerpt: "Easy-to-use web-scraping API to calulate grades <br/><img src='/images/calcab_img.png' width=500 height=300>"
 collection: portfolio
 ---
 
@@ -12,7 +12,7 @@ Here's the presentation:
 
 <br />
 
-To explain what's going on in the animations, there are speaker notes in the Google Slide and in the [implementation script](https://github.com/derp000/calc-ab-final/blob/main/project/scene.py).
+To explain what's going on in the animations, there are speaker notes in the [Google Slide](https://docs.google.com/presentation/d/1kSZe5gFOaNMZeKx3ONT5HKZPTDpFbs2yutQyAUUcjYY/edit?usp=sharing) and comments in the [implementation script](https://github.com/derp000/calc-ab-final/blob/main/project/scene.py).
 
 **Technologies:** Manim
 
