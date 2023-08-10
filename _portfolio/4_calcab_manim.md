@@ -1,6 +1,6 @@
 ---
 title: "Calculus Visualization Project"
-excerpt: "Easy-to-use web-scraping API to calulate grades <br/><img src='/images/calcab_img.png' width=500 height=300>"
+excerpt: "Using Integration to Find Volume of a Tent <br/><img src='/images/calcab_img.png' width=500 height=300>"
 collection: portfolio
 ---
 
