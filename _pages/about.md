@@ -28,10 +28,6 @@ Hi! I am a high school student from Union County Magnet High School. I am heavil
   * Conducting research on improving underwater image restoration/enhancement using conditional diffusion models with a CLIP-based loss function
   * Selective program with 20% acceptance rate
 
-* Particle Physics Research Group, *2023*
-  * Investigating/learning about quantum mechanics, neutrino oscillations, etc.
-  * Under guidance of Prof. Alfredo Aranda (University of Colima)
-
 # Awards
 * President's Volunteer Service Award (Gold), *2023*
   * Awarded for achieving 100 volunteer hours
@@ -89,11 +85,6 @@ Hi! I am a high school student from Union County Magnet High School. I am heavil
 * **Teacher** @ Aioglearning, *2022*
   * Created curriculum and taught basic Python programming to elementary/middle school students
   * Developed student intuition and used libraries like Turtle to maintain engagement
-
-# Work experience
-* **Developer** @ Inventurn, *2022–Present*
-  * Created modern full-stack web applications
-  * E.g., artist portfolios with admin interface using Firebase, allowing user to upload and edit artworks
 
 # Skills
 
