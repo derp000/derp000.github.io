@@ -31,17 +31,13 @@ Hi! I am a high school student from Union County Magnet High School. I am heavil
 # Research
 
 - Boston University Research in Science and Engineering program, _2024_
-
   - Developed a prototype compact optical surgical navigation system for use in minimally invasive surgery
   - Organized Brigham and Women’s Hospital summer intern symposium and presented to researchers
   - Presented research at Boston University RISE symposium
   - Advised by Dr. Junichi Tokuda (Brigham and Women’s Hospital/Harvard Medical School)
-
 - Blast AI Summer Research Program, _2023_
-
   - Conducting research on improving underwater image restoration/enhancement using conditional diffusion models with a CLIP-based loss function
   - Selective program with 20% acceptance rate
-
 - Particle Physics Research Group, _2023_
   - Investigating/learning about quantum mechanics, neutrino oscillations, etc.
   - Under guidance of Prof. Alfredo Aranda (University of Colima)
@@ -77,39 +73,29 @@ Hi! I am a high school student from Union County Magnet High School. I am heavil
 # Extracurriculars
 
 - 🤖 **President**: Magnet FRC Robotics Team 1257, _2021–Present_
-
   - Supervised directors/departments and maintained schedule deadlines
   - Primary contributor for implementation of AprilTag vision detection
   - Aided in development of on-the-fly trajectory generation system
   - Taught members relevant Java libraries necessary to interface with robot
-
 - 💻 **HackUC Chair**: Coding Club, _2021–Present_
-
   - Ran two-month-long workshop twice a week introducing Python and web devlopment to 10-15 students in my school district
   - Hackathon organizer
-
 - 🎻 **Violinist**: New Jersey Youth Symphony, _2019–Present_
   - Selective audition-based orchestra
 
 # Community service
 
 - **Co-Founder** @ Next GenSTEM, _2023–Present_
-
   - Outreached to local townships to provide STEM programming for elementary/middle school students
   - Current programs in Berkeley Heights and Long Hill with 10-15 kids in regular attendance
   - Ran LEGO robotics and Popsicle Bridge Building workshops
-
 - **Summer STEM Outreach Organizer** @ Long Hill Township Library, _2023_
-
   - Organizing biweekly LEGO robotics and programming workshops for elementary/middle school students
   - Program with 10+ students in attendance
-
 - **CS Committee Chair/Volunteer** @ The Alliance of Youth Leaders in the United States, _2021–Present_
-
   - Taught programming by holding workshops in local libraries
   - Played piano/violin at retirement homes and held benefit concerts
   - Accumulated 100+ volunteering hours
-
 - **Teacher** @ Aioglearning, _2022_
   - Created curriculum and taught basic Python programming to elementary/middle school students
   - Developed student intuition and used libraries like Turtle to maintain engagement
